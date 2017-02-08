@@ -1,2 +1,2 @@
 * bamtron5
-*jandyq
+* jandyq
